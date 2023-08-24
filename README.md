@@ -1,2 +1,2 @@
 # Portfolio
-A portfoloi site designed and developed by me.
+A personal portfolio site designed and developed by me.
